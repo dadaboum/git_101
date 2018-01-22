@@ -1,0 +1,13 @@
+
+#logo{
+	height: 50px;
+	width: 50px;
+}
+
+#container{
+	font-family: 'Roboto', sans-serif;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 100vh 
+}
